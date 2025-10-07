@@ -13,10 +13,10 @@ async function main() {
     const productos = await prisma.product.createMany({
         data: [
             {
-                title: 'Producto A',
-                description: 'Mock A',
+                title: 'Lapiz',
+                description: 'HB',
                 price: 10.5,
-                imageUrl: '',
+                imageUrl: 'https://www.faber-castell.com.ar/-/media/Products/Product-Repository/CASTELL-9000/24-24-01-Pencil/119000-Graphite-pencil-CASTELL-9000-HB/Images/119000_0_PM99.ashx?bc=ffffff&as=0&h=900&w=900&sc_lang=es-AR&hash=B8E204FF550A2032A871C4975C0136D9',
             },
             {
                 title: 'Producto B',
