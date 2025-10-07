@@ -19,16 +19,16 @@ async function main() {
                 imageUrl: 'https://www.faber-castell.com.ar/-/media/Products/Product-Repository/CASTELL-9000/24-24-01-Pencil/119000-Graphite-pencil-CASTELL-9000-HB/Images/119000_0_PM99.ashx?bc=ffffff&as=0&h=900&w=900&sc_lang=es-AR&hash=B8E204FF550A2032A871C4975C0136D9',
             },
             {
-                title: 'Producto B',
-                description: 'Mock B',
+                title: 'Goma',
+                description: 'Dos puntas',
                 price: 23.0,
-                imageUrl: '',
+                imageUrl: 'https://acdn-us.mitiendanube.com/stores/001/132/430/products/goma-de-borrar-dos-banderas-214-lapiz-tinta-unidad-e88b462598cd2ab1bb17349533816599-1024-1024.jpg',
             },
             {
-                title: 'Producto C',
-                description: 'Mock C',
+                title: 'Hojas de papel',
+                description: 'A4 x 100',
                 price: 7.99,
-                imageUrl: '',
+                imageUrl: 'https://img.freepik.com/vector-gratis/hojas-papel-blanco_1232-24.jpg',
             },
         ],
     });
